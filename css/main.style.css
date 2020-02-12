@@ -1,0 +1,37 @@
+body,html {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	background: #ffc700;
+}
+
+.container-fluid {
+	/*border: 1px solid red;*/
+}
+
+.col {
+	/*border: 1px solid red;*/
+}
+
+#warp {
+	/*border: 1px solid red;*/
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	right: 10%;
+	bottom: 10%;
+}
+
+
+/* word set */
+#word-one {
+	font-size: 13em;
+	font-weight: bold;
+	color: #fff;
+	position: relative;
+	z-index: 0;
+	left: 3%;
+}
